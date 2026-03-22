@@ -1,4 +1,4 @@
-# 🧠 NAFLD_XAI — Explainable AI for NAFLD Risk Prediction (Clinical-Ready API)
+#  NAFLD_XAI — Explainable AI for NAFLD Risk Prediction (Clinical-Ready API)
 
 > **A production-oriented ML + FastAPI system that not only predicts NAFLD risk (~80%+ accuracy) but explains *why*—feature by feature—using SHAP. Built for real-world healthcare trust, not just accuracy.**
 
